@@ -1,2 +1,2 @@
 #Input Code Here
-#Secod Line Here
+#Second Line Here
